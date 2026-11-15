@@ -8,6 +8,37 @@ We’re a team of five from Inha University in South Korea. Our name, **AZAS**, 
 
 **LAMP (Lunar Access and Mission Planning)** is an interactive explorer for the Moon’s south pole. Choose any of the 27 candidate landing sites and set a mission deadline. LAMP checks the local terrain to find the earliest touchdown that keeps both the Sun and Earth in view for 48 consecutive hours. If a window is available, you can choose a launch site on Earth, follow a preliminary trajectory to the Moon, and move the surface timeline to see where the Sun and Earth appear above the lander’s horizon.
 
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="./assets/screenshots/landing-sites.jpg"><img src="./assets/screenshots/landing-sites.jpg" alt="Map of lunar south pole landing sites beside a 360° terrain panorama"></a><br>
+      Explore landing sites
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="./assets/screenshots/arrival-dates.jpg"><img src="./assets/screenshots/arrival-dates.jpg" alt="Available touchdown dates and UTC times for the selected landing site"></a><br>
+      Choose an arrival date
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="./assets/screenshots/launch-options.jpg"><img src="./assets/screenshots/launch-options.jpg" alt="Globe showing Earth launch sites alongside their departure times"></a><br>
+      Compare launch sites
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="./assets/screenshots/launch-site-details.jpg"><img src="./assets/screenshots/launch-site-details.jpg" alt="Kennedy Space Center on a map with its coordinates and launch time"></a><br>
+      Check launch details
+    </td>
+    <td align="center" valign="top">
+      <a href="./assets/screenshots/lunar-trajectory.jpg"><img src="./assets/screenshots/lunar-trajectory.jpg" alt="Earth-to-Moon transfer trajectory with the remaining flight time and distance"></a><br>
+      Follow the flight to the Moon
+    </td>
+    <td align="center" valign="top">
+      <a href="./assets/screenshots/surface-sky.png"><img src="./assets/screenshots/surface-sky.png" alt="Sun and Earth above the lunar horizon with a timeline of the surface mission"></a><br>
+      Track the Sun and Earth
+    </td>
+  </tr>
+</table>
+
 ## Links & contact
 
 [Live demo](https://azas-app.vercel.app/) · [Team GitHub](https://github.com/NASA-AZAS) · [Frontend](https://github.com/NASA-AZAS/AZAS-FE) · [API documentation](https://api.azas.n-e.kr/docs)
