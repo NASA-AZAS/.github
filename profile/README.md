@@ -1,3 +1,5 @@
+[Live demo](https://azas-app.vercel.app/) · [Team GitHub](https://github.com/NASA-AZAS) · [Frontend](https://github.com/NASA-AZAS/AZAS-FE) · [API documentation](https://api.azas.n-e.kr/docs)
+
 [![LAMP (Lunar Access and Mission Planning) by Team AZAS at the 2026 NASA Space Apps Challenge in Seoul. Open the interactive explorer.](./assets/azas-cover.png)](https://azas-app.vercel.app/)
 
 ## Team AZAS
@@ -39,9 +41,7 @@ We’re a team of five from Inha University in South Korea. Our name, **AZAS**, 
   </tr>
 </table>
 
-## Links & contact
-
-[Live demo](https://azas-app.vercel.app/) · [Team GitHub](https://github.com/NASA-AZAS) · [Frontend](https://github.com/NASA-AZAS/AZAS-FE) · [API documentation](https://api.azas.n-e.kr/docs)
+## Team contacts
 
 | [<img src="https://avatars.githubusercontent.com/u/193579493?s=160&amp;v=4" alt="Hun-yeop Choi" width="80">](https://github.com/Hunyeap) | [<img src="https://avatars.githubusercontent.com/u/74352893?s=160&amp;v=4" alt="Jin Kim" width="80">](https://github.com/Jinacker) | [<img src="https://avatars.githubusercontent.com/u/130636888?s=160&amp;v=4" alt="Jiwon Lee" width="80">](https://github.com/jiwon543) | [<img src="https://avatars.githubusercontent.com/u/289597067?s=160&amp;v=4" alt="Min-seok Sung" width="80">](https://github.com/Ein-Landarzt) | [<img src="https://avatars.githubusercontent.com/u/81423073?s=160&amp;v=4" alt="Min-hyeok Bae" width="80">](https://github.com/bmh7190) |
 | :---: | :---: | :---: | :---: | :---: |
