@@ -10,14 +10,9 @@ We’re a team of five from Inha University in South Korea. Our name, **AZAS**, 
 
 ## Links & contact
 
-| Project or team member | Link or email |
-| --- | --- |
-| Live demo | [Open LAMP](https://azas-app.vercel.app/) |
-| Team GitHub | [@NASA-AZAS](https://github.com/NASA-AZAS) |
-| Frontend | [Source code and setup](https://github.com/NASA-AZAS/AZAS-FE) |
-| API | [Explore the API documentation](https://api.azas.n-e.kr/docs) |
-| Hun-yeop Choi | [hychoi@gps2u.kr](mailto:hychoi@gps2u.kr) |
-| Jin Kim | [rlawls1448@naver.com](mailto:rlawls1448@naver.com) |
-| Jiwon Lee | [won2b834@gmail.com](mailto:won2b834@gmail.com) |
-| Min-seok Sung | [zjaalstjr14@gmail.com](mailto:zjaalstjr14@gmail.com) |
-| Min-hyeok Bae | [bmh7190@gmail.com](mailto:bmh7190@gmail.com) |
+[Live demo](https://azas-app.vercel.app/) · [Team GitHub](https://github.com/NASA-AZAS) · [Frontend](https://github.com/NASA-AZAS/AZAS-FE) · [API documentation](https://api.azas.n-e.kr/docs)
+
+| [<img src="https://avatars.githubusercontent.com/u/193579493?s=160&amp;v=4" alt="Hun-yeop Choi" width="80">](https://github.com/Hunyeap) | [<img src="https://avatars.githubusercontent.com/u/74352893?s=160&amp;v=4" alt="Jin Kim" width="80">](https://github.com/Jinacker) | [<img src="https://avatars.githubusercontent.com/u/130636888?s=160&amp;v=4" alt="Jiwon Lee" width="80">](https://github.com/jiwon543) | [<img src="https://avatars.githubusercontent.com/u/289597067?s=160&amp;v=4" alt="Min-seok Sung" width="80">](https://github.com/Ein-Landarzt) | [<img src="https://avatars.githubusercontent.com/u/81423073?s=160&amp;v=4" alt="Min-hyeok Bae" width="80">](https://github.com/bmh7190) |
+| :---: | :---: | :---: | :---: | :---: |
+| [**Hun-yeop Choi**](https://github.com/Hunyeap) | [**Jin Kim**](https://github.com/Jinacker) | [**Jiwon Lee**](https://github.com/jiwon543) | [**Min-seok Sung**](https://github.com/Ein-Landarzt) | [**Min-hyeok Bae**](https://github.com/bmh7190) |
+| [Email](mailto:hychoi@gps2u.kr) | [Email](mailto:rlawls1448@naver.com) | [Email](mailto:won2b834@gmail.com) | [Email](mailto:zjaalstjr14@gmail.com) | [Email](mailto:bmh7190@gmail.com) |
