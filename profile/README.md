@@ -1,17 +1,23 @@
-# AZAS · Lunar Landing Site Navigator
+[![LAMP (Lunar Access and Mission Planning) by Team AZAS at the 2026 NASA Space Apps Challenge in Seoul. Open the interactive explorer.](./assets/azas-cover.png)](https://azas-app.vercel.app/)
 
-When could a lander touch down near the Moon’s south pole and keep both the Sun and Earth in view for the next 48 hours? A nearby ridge can block sunlight or the line of sight to Earth. AZAS, a NASA Space Apps project, uses the local horizon at each landing site to find when both are visible.
+## Team AZAS
 
-![Map of candidate landing sites near the lunar south pole, with the selected site's terrain panorama alongside it](https://raw.githubusercontent.com/NASA-AZAS/AZAS-FE/52522489d031a38001412c00fb46b3fe52936d19/docs/evidence/candidate-panorama-panel.png)
+We’re a team of five from Inha University in South Korea. Our name, **AZAS**, stands for **Astro-Zonal Assessment & Scheduling**. We built LAMP for the 2026 NASA Space Apps Challenge in Seoul so that students, educators, and anyone curious about the Moon can plan a lunar mission and see how their choices play out.
 
-## Explore a mission
+## What we built
 
-1. Choose any of the 27 candidate landing sites and enter a mission deadline. If the Sun and Earth are both visible for 48 consecutive hours within that period, the explorer shows the earliest qualifying touchdown.
-2. Choose a launch site on Earth. The explorer works backward from that touchdown to show a possible departure time and lets you follow a preliminary trajectory from Earth orbit to lunar arrival.
-3. After landing, move the timeline through those 48 hours. Watch the Sun and Earth change position above the terrain from the lander’s point of view.
+**LAMP (Lunar Access and Mission Planning)** is an interactive explorer for the Moon’s south pole. Choose any of the 27 candidate landing sites and set a mission deadline. LAMP checks the local terrain to find the earliest touchdown that keeps both the Sun and Earth in view for 48 consecutive hours. If a window is available, you can choose a launch site on Earth, follow a preliminary trajectory to the Moon, and move the surface timeline to see where the Sun and Earth appear above the lander’s horizon.
 
-## Project links
+## Links & contact
 
-- Run the Expo and React Native explorer. [Frontend source and setup instructions](https://github.com/NASA-AZAS/AZAS-FE/tree/04f7f79f1847a0dc1393b69f4555f9a77016bf0d#readme)
-- Look up landing sites and explore the analysis endpoints in the [public API documentation](https://api.azas.n-e.kr/docs).
-- To contribute, read the [organization’s contribution guide](https://github.com/NASA-AZAS/.github/blob/main/CONTRIBUTING.md).
+| Project or team member | Link or email |
+| --- | --- |
+| Live demo | [Open LAMP](https://azas-app.vercel.app/) |
+| Team GitHub | [@NASA-AZAS](https://github.com/NASA-AZAS) |
+| Frontend | [Source code and setup](https://github.com/NASA-AZAS/AZAS-FE) |
+| API | [Explore the API documentation](https://api.azas.n-e.kr/docs) |
+| Hun-yeop Choi | [hychoi@gps2u.kr](mailto:hychoi@gps2u.kr) |
+| Jin Kim | [rlawls1448@naver.com](mailto:rlawls1448@naver.com) |
+| Jiwon Lee | [won2b834@gmail.com](mailto:won2b834@gmail.com) |
+| Min-seok Sung | [zjaalstjr14@gmail.com](mailto:zjaalstjr14@gmail.com) |
+| Min-hyeok Bae | [bmh7190@gmail.com](mailto:bmh7190@gmail.com) |
